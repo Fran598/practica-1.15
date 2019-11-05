@@ -1,0 +1,122 @@
+body{
+
+background-color: #F2DDCD;
+
+
+}
+
+h1{
+
+color:brown;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 800;
+text-align: center;
+
+}
+
+
+h2{
+
+  color:brown;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+#encabezado{
+
+color:brown;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.centrado{
+
+ text-align: center;
+
+}
+
+.izquierda{
+
+    text-align: left;
+   
+}
+
+
+.derecha{
+
+    text-align: right;
+   
+}
+
+ul{
+
+list-style: none;
+
+}
+
+a{
+
+font-size: 30px;
+
+}
+
+p{
+
+color: #CA2B2B;
+font-weight: bold;
+
+
+}
+
+div {
+
+  border-right: 1px solid black;
+  width: 100;
+  Height :400px
+}
+
+
+ol{
+
+  color: #E75E41;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.noenumerado{
+
+  color: #E75E41;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style: circle;
+ 
+}
+
+.numerado{
+
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+
+caption{
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+
+}
+
+.colorcolth {
+
+background-color: rgba(236, 235, 145, 0.89);
+
+}
+
+.colorcoltd {
+
+background-color: #F2DDCD;
+
+}
+
+table.section{
+
+  padding-top: 20px;
+}
